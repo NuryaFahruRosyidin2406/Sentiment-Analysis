@@ -1,0 +1,2 @@
+untuk informasi dan documentation dari NLTK
+bisa cek di link ini "https://www.nltk.org"

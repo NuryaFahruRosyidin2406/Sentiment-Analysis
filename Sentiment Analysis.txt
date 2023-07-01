@@ -1,0 +1,1 @@
+sentiment analysis yaitu mencoba mengestrak kualitas subjektif, interpretasi dan klarifikasi emosi (positif, negatif, dan netral), dan juga memungkinkan organisasi mengidentifikasi sentimen publik terhadap topik tertentu.
